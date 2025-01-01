@@ -5,7 +5,7 @@ Packages Used
 
 JsonConvert  
 Unity.Microsoft.DependencyInjection  
-DevExpress
+DevExpress WinForms
 
 
 
